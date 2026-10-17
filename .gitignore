@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# 数据与实验产物
+data/
+runs/
+*.gif
+*.mp4
+*.png
+*.pt
+*.pth
+
+# IDE / 系统
+.vscode/
+.idea/
+Thumbs.db
